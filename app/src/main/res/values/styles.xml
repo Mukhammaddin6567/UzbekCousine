@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percent" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="item_photo">
+        <item name="android:layout_width">@dimen/_75sdp</item>
+        <item name="android:layout_height">@dimen/_75sdp</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="style_content_text">
+        <item name="android:layout_margin">@dimen/_8sdp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/color_tv_description</item>
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="fontFamily">@font/poppins</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="style_content_title">
+<!--        <item name="android:layout_marginTop">@dimen/_8sdp</item>-->
+        <item name="android:layout_marginStart">@dimen/_8sdp</item>
+        <item name="android:layout_marginEnd">@dimen/_8sdp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_tv_title</item>
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+</resources>

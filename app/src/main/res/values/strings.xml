@@ -1,0 +1,328 @@
+<resources>
+    <string name="app_name">Uzbek Cuisine</string>
+
+    <string name="title1">Wedding Pilaf (Plov)</string>
+    <string name="description1">A delightful mixture of rice, bits of meat, grated carrots and
+        onions, and raisins (with a clove of roasted garlic on top). The “wedding” part refers to
+        the fact that it’s easy to cook in large quantities (traditionally in a kazan over an open
+        fire) and is often served on special occasions, like weddings.</string>
+    <string name="fullDescription1">\tPlov is the symbol of Uzbek food. It is prepared in every
+        Uzbekistan family, whether Uzbek, Russian, Tatar of Korean. Uzbek plov is the part of
+        mentality of Uzbekistan people. Traditionally plov is cooked by men.\n\n\tThere are over a
+        thousand of recipes of cooking Uzbek plov with various ingredients and even there are some
+        cook books dedicated only to this dish.\n\n\tIn various regions of Uzbekistan, people have
+        their own recipes of Uzbek plov preparation. For instance, Bukharan people prepare plov with
+        green gram. Samarkand plov is light, Fergana plov is brown on the contrary. In Samarkand
+        people put meat, carrot, rice in layers and steam it. In Tashkent plov all ingredients are
+        roasted at the beginning.\n\n\tCommonly Uzbek plov is cooked with rice, fresh mutton or
+        beef, yellow or red carrot, onions and vegetable oil. Traditionally, Uzbek plov is prepared
+        in a deep cast-iron pot (kazan), which is uniformly warmed and a dish is not burnt.</string>
+    <string name="ingredients1">- 3 cups long grain rice.\n- 1 kg lamb shoulder, cubed.\n- 8 Tbsp
+        vegetable oil.\n- 3 medium onions.\n- 1 head of garlic, whole.\n- 1kg carrots
+        (yellow if possible).\n- 1 Tbsp coriander, ground.\n- 1 Tbsp paprika.\n- 1 tsp black pepper,
+        ground.\n- 4 cloves.\n- 1 tsp cumin, ground.\n- 1 cup of raisins.\n- 1 cup barberries /
+        zereshk (opt.).\n- Salt.\n- 3 Tbsp wild black cumin.</string>
+    <string name="methods1">1. Place the rice in a bowl and cover with water.\n\n2. Heat a large
+        pot. Pour in the oil and add the lamb. Cook on high heat until the meat browns.\n\n3. Cut
+        the onions in four and add them to the meat with the head of garlic. Mix and cook for 5
+        minutes.\n\n4. Add the spices and enough water to cover the meat and the onions. Cook for
+        another 15 minutes.\n\n5. Meanwhile, peel and cut the carrots lengthwise.\n\n\6. Place the
+        carrots on the meat. Strain the rice and add it to the pot. Add enough boiling water to
+        cover the rice. Shake the pot gently in order to spread the rice evenly.\n\n7. Bring to a
+        boil. Sprinkle the raisins, barberries, black cumin and salt into the pot. Cook another 5
+        minutes.\n\n8. Reduce the heat to low, cover and cook for another 20 minutes.\n\n9. Garnish
+        with pomegranate if you wish. Serve with a tomato and green onion salad.</string>
+
+
+    <string name="title2">Manty</string>
+    <string name="description2">Steamed dumplings sprinkled with dill and served with sour cream.
+        Meat, spices, or vegetables can make up the stuffing, so you never know what you’re going
+        to get!</string>
+    <string name="fullDescription2">\tOnly the Uzbek people could preserve the age-old recipe of
+        classical uzbek manti and offered an alternative to the Chinese bamboo lattices, on which
+        dumplings were cooked. Yes, this tableware, called manti-kozon (cauldron for manti) or
+        "mantyshnitsa" was born in Uzbekistan.\n\n\tUzbek manti is one of the many dishes of Uzbek
+        cuisine, which gives scope for the irrepressible imagination of cooks. Only the composition
+        of the dough is in fact unchanged, and stuffing safely varies depending on the season and
+        taste preferences. So, stuffing can consist of meat, potatoes, greens, turnips, tomato,
+        sweet pepper, and even there is manti with pumpkin. The main thing, that onion and dumba
+        (fatty tail) would be always on hand in abundance.\n\n\tHowever, the recipe of uzbek manti,
+        assuming a part of minced meat, onions and fatty tail is really the most favorite,
+        widespread and commonly used.\n\n\tUzbek manti with mutton and onions is a holiday not only
+        for the stomach, is a feast for the soul! A large dish of flavored envelopes of the finest
+        dough in the middle of the table, the noise and hubbub, sour cream, bowls with hot tea and
+        arms, stretching for a new portion of Uzbek manti.</string>
+    <string name="ingredients2">- Flour - 500 g.\n- Eggs - 2 pcs.\n- Boiled water - 150 -170 ml.\n-
+        Salt - 15 g.\n- For the stuffing: Lamb of average fat content (back or thigh) - 600 gr.\n-
+        Fat tail - 100 gr.\n- Onions - 600 g.\n- Salt - 20 g.\n- Ground black pepper - 10 gr.\n-
+        Ground zira (cumin) - 5 gr.</string>
+    <string name="methods2">1. Knead the dough, as well as for other flour Uzbek dishes, let the
+        dough "lie down", after covering it.\n\n2. Half a piece of the dough should be rolled out in
+        a large thin sheet, trying to give it a square shape to reduce the number of substandard
+        scraps.\n\n3. The rolled out layer we put in the form of an accordion so as to obtain a
+        rectangle of 4 layers. Cut the folded dough into equal squares. As a result, we obtain four
+        long strips of equal width, about 9–10 centimeters.\n\n4. Repeat all manipulations with the
+        second half of the dough. Impose strips on each other and we share them into equal neat
+        squares.\n\n5. Now you can start sculpting of Uzbek manti. In the middle of a square of each
+        piece of dough we spread the stuffing, potatoes, and then a few pieces of fat. Put together
+        the opposite corners of the square. Then, pinch together the edges.\n\n6. The ready manti are
+        spread on a sheet of mantovarka (cauldron for manti) greased with oil.\n\n7. Before direct
+        cooking of Uzbek manti, you should fill the bottom pan of cauldron with water and put it on
+        the fire to make it boil.\n\n8. Uzbek manti should be stewed approximately 45 minutes.\n\n9.
+        The result, delicious and very juicy real Uzbek manti, which will be appreciated at true
+        worth.</string>
+
+    <string name="title3">Lagman Soup</string>
+    <string name="description3">Something of a Central Asian version of ramen, this is a spicy,
+        meaty broth filled with chunks of lamb, handspun noodles, and vegetables. It also comes in
+        a non-soup version.</string>
+    <string name="fullDescription3">\tAlong with pilaf and shashlik, Uzbek lagman is considered one
+        of the main national dishes of Uzbekistan. This fragrant Uigur, according to other sources,
+        Dungan dish won the recognition of the majority of the Central Asian peoples and Uzbek
+        talented chefs added its own original ingredients.\n\n\tThe name "Lagman" is derived from
+        the word "lyumyan" translated from Dungan to "stretch the dough." It reflects the main
+        feature of cooking lagman: homemade dough for noodles, which is put in the soup, specially
+        rolled and hand-drawn.\n\n\tUzbek lagman is very famous and popular dish of Uzbek cuisine.
+        Lagman Uzbek noodles is cooked from meat (especially lamb), various vegetables
+        (green radish, onion, carrot, bell pepper, etc.) and special long noodles.</string>
+    <string name="ingredients3">- 2 tablespoons olive oil.\n- 1 onion, finely chopped.\n- ½ pound
+        beef chuck, cut into strips.\n- 1 teaspoon ground cumin.\n- ½ teaspoon ground black pepper.
+        \n- 2 tablespoons tomato paste.\n- 1 carrot, cut into thin strips.\n- 1 green bell pepper,
+        cut into 1-inch strips.\n- 3 small potatoes, cubed.\n- ½ cup thinly sliced celery.\n- 8 cups
+        water.\n- 2 teaspoons salt.\n- ½ cup finely chopped parsley.\n- 3 large cloves garlic,
+        minced.\n- 2 (8 ounce) packages thin Chinese noodles.</string>
+    <string name="methods3">1. Heat oil in a large pot over high heat. Reduce heat to medium-high;
+        cook and stir onion in the hot oil until golden, 3 to 5 minutes. Stir in beef strips, cumin,
+        and black pepper; cook until beef is browned, about 5 minutes. Stir in tomato paste and cook
+        for 2 to 3 minutes.\n\n2. Stir carrot into the pot; cook until coated with tomato paste, 2 to
+        3 minutes. Add green bell pepper; cook for 1 minute. Add potatoes and celery; cook for 5
+        minutes. Pour in water; bring to a boil. Season water with salt. Reduce heat to low and
+        simmer soup until potatoes are soft, about 40 minutes.\n\n3. Stir parsley and garlic into
+        the soup. Simmer until garlic is soft, 10 to 15 minutes.\n\n4. Bring a large pot of lightly
+        salted water to a boil. Cook noodles in the boiling water, stirring occasionally, until
+        tender yet firm to the bite, 3 to 5 minutes. Rinse and drain well. Divide among serving
+        bowls. Ladle hot soup over noodles.</string>
+
+    <string name="title4">Chuchvara Soup</string>
+    <string name="description4">A soup in which small dumplings are boiled in salt water or bouillon
+        and served with sour milk (“suzma”) and seasoned with pepper, onion, tomato paste,
+        black pepper, and sour cream.</string>
+    <string name="fullDescription4">\tYou can puzzle for a long time, but never guess what is
+        hidden behind such a mysterious name. And chuchvara are fragrant and juicy Uzbek dumplings.
+        They differ from the products so familiar to us in their shape and miniature size.
+        The serving is also different - they are served floating in a fragrant broth!\n\n\t
+    There is nothing tastier and more fragrant than the incomparable homemade chuchvara!
+        You will have to tinker with it a little, small dumplings require painstaking work
+        in sculpting them. But the result will make you immediately forget about all the efforts
+        expended, the food is so tasty.</string>
+    <string name="ingredients4">For the dough:\n- 100g water\n- 1/2 Tbs. salt\n- 1 large egg
+        \n- 80-110g all purpose flour\nFor the filling:\n- 250g ground meat (lamb or beef)
+        \n- 2 onions peeled and finely diced\n- Salt and pepper\n- 5 Tbs. butter
+        \n- 4 Tbs. lamb’s tail fat cut into tiny cubes (optional)\n Cayenne pepper
+        (for 1 lucky dumpling)\nFor serving:\n- Sour cream or yogurt\n- 2 Tbs. chopped cilantro
+    </string>
+    <string name="methods4">1. For the dough: Combine all the dough ingredients in a medium bowl,
+        adding the flour bit by bit as needed. Knead to form a moderately firm dough. Cover and
+        let dough rest for 15 min.\n\n2. For the filling: Sauté the onions over medium heat in the
+        butter until golden brown. Add the meat and lamb fat, if using, then season generously
+        with salt and pepper. Cook until meat is no longer pink. Set aside to cool.
+        \n\n3. To assemble: Roll out the dough on a floured surface into a large rectangle,
+        1/16″ thick (or as thin as you can get it.)\n\n4. Cut the dough into 1.5 x 1.5 inch squares.
+    \n\n5. Put 1/2-1 tsp. of filling in the middle of each square. Fold the dough corner to corner
+        (making a triangle), pinching the edges together to seal. Pinch two corners together
+        (like a hug!) Continue making chuchvara in the same way until you’re out of filling.
+    \n\n6. To serve: Chuchvara can be frozen at this point! Or cook in salted boiling water for 3-5
+        minutes until pasta is translucent and tender. Serve Chuchvara with some of the cooking
+        liquid (called soup) ladled into a serving dish. Dollop with plain yogurt or sour cream
+        and sprinkle with chopped cilantro.\n\n7. Alternatively, chuchvara can be served
+        “without soup” and topped with fried onions and diced fresh tomatoes. Enjoy!
+        (I hope you get the lucky spicy one!)</string>
+
+    <string name="title5">Samsa</string>
+    <string name="description5">A triangular dough pastry that’s baked in a tandoor oven so that
+        the bread is somehow both crunchy and super-soft. Like manty, they can be filled with a
+        variety of things, including ground lamb, herbs, and, the most interesting
+        traditional option, pumpkin.</string>
+    <string name="fullDescription5">Samsa (also spelled samsa, somsa, samoosa, sambosak, sambusa,
+        singada, samuza, somasi, somas) is an Uzbek food consisting of flaky pasties with various
+        fillings, both served at ceremonies and eaten in an everyday life. Samsa may have different
+        shapes and forms and be cooked in a multiplicity of ways.\n\n\tToday’s Samsa is usually
+        filled with meat (mutton, chicken or beef), vegetables (pumpkin, potato or onion),
+        mushrooms, eggs, peas, herbs or even sweet substances. However, as in most of the Uzbek
+        dishes, it is the spices, such as zira (zra, kumin), black and red hot pepper, and sesame
+        (covering Samsa on the top), that make the taste of the pasties really unique.\n\n\tIn the 
+        former times Samsa was cooked only in a tandir oven (a Central Asian clay oven, also 
+        spelled tandyr, tandoor), on coals. Samsa baked in a tandir has specific taste and flavour 
+        and is filled with small pieces of meat, onion and some amount of fat from a sheep’s tail. 
+        Nowadays, some sorts of Samsa are cooked in gas or electric ovens, which is faster and 
+        more convenient and, at the same time, makes Samsa retain its original qualities.</string>
+    <string name="ingredients5">For the Pastry Cover:\n- 2 C AP Flour Unbleached\n- 1 C Warm Water
+        As Needed\n- 1/2 Tsp Salt\n- 1 Tbsp Ghee Clarified Butter\nFor Filling:\n- 1 lb Minced lamb
+        Not extra lean 15- 30% fat\n- 3 Medium Onions Finely chopped\n- 1 Tsp Salt\n- 1 Tsp Fresh
+        Ground Pepper\n- 1 Tsp Cumin Seeds Lightly crushed\n- 2 Tbsp Mint Leaves Chopped finely\n-
+    1 Tsp Minced Garlic\nOther Ingredients:\n- 1/4 C Ghee More if needed\n- 1 Egg For Egg Wash</string>
+    <string name="methods5">Make the Dough:\n1. Heat the water to warm. Mix the flour and salt
+        together. Add the ghee and knead using warm water (stand mixer about 4 to 5 minutes).
+        The dough should be soft and very pliable. Form into a ball, cover and set aside to rest
+        for 20 minutes  to 1  hour.\n2. Divide the dough into at least 3 equal portions.\n3.
+        Lightly dust a work surface and roll out one portion of  the  dough  into a thin rectangle
+        (2 to 3 mm thickness).\n4. Generously spread some  ghee  all over the rectangle with a
+        spoon orr pastry brush.\n5. Roll out the next portion of dough into a similar rectangle.
+        Place it on top of the first rectangle. Brush liberally with ghee and repeat the process
+        with the remaining portion(s).\n6. Roll the  stacked rectangle starting at  the longer edge
+        to form a log. Wrap the log in a plastic wrap or parchment and chill for at least
+        30 minutes.\n\nMake the filling:\n- Finely chop the onions. Take 3 to 4 cups of chopped
+        onions and add to the minced lamb. Add all the remaining ingredients for the filling.
+        Mix everything together until uniform.\n\nShape Samsa:\n1. Remove dough from the fridge.
+        Slice into about 18 to 20 equal pieces. Liberally flour the work surface. Take each
+        dough disc and flatten it using your palm (or a thin rolling pin) to a circle of about
+        4 inch diameter. The edges should be thinner than the center.\n2. Divide the filling into
+        as many equal portions as the dough discs.\n3. Place one portion in the center of a disc.
+        Imagine a triangle around the filling .Pick up two side of the imaginary triangle and
+        start pinching them close to the center.\n4. Pick up the third side and close all sides
+        by pinching. All three sides should meet at the center…\n\nBake:\n1. Pre heat the oven to
+        375°F (190°C) with the oven rack in the center.\n2. Line a baking tray with parchment paper
+        or coat with oil. Place the samsas on the tray with the seam sides facing down.\n3. Beat
+        the egg with 1 tsp water to make the egg wash. Brush the tops of the samsas with the
+        egg wash.\n4. Bake for about 30 minutes or until the tops are golden brown.\n5. Transfer
+        to a cooling rack. Serve warm.
+</string>
+
+    <string name="title6">Naryn</string>
+    <string name="description6">An oriental merchant favorite, the dish is composed of hand-spun
+        noodles and boiled jerk meat, served with minced onions and black pepper. Traditionally,
+        it is made with horse-meat.</string>
+    <string name="fullDescription6">\tUzbek cuisine does not cease to amaze with a rich variety of
+        traditional dishes, and the ingredients are mostly the same - flour, water, meat and salt.
+        At the festive tables of Uzbekistan and in everyday life in the markets one can often find
+        a national Uzbek dish - norin. The unusual taste of lace-like noodles in combination with
+        horsemeat (classic version) makes the dish taste fantastic.\n\n\tNorin (narin) - is
+        home-made noodles with horsemeat, more precisely, with kazy (horse meat sausage). However,
+        recipes of norin allow using beef and mutton.\n\n\tIn Uzbekistan norin is a traditional
+        dish of great festivals, cooked not only for the guests, but also for all the neighbors.
+        It is a special dish for Ramazan Hait (Eid-al Fitr), when the fest begins with bustle with
+        treats - from one to take, others to treat - with cold norin on a sunny flat bread, with
+        hot pilaf in colored plate - kosa, or with baursak, urama, chak-chak and many others. This
+        Uzbek tradition symbolizes peace, friendship, prosperity and, most importantly,
+        holds good-neighborly relations.</string>
+    <string name="ingredients6">- Mutton (Meat) - 300 gr\n- Fat tail fat - 70 gr\n- Smoked brisket - 200 gr
+\n- Flour - 2 beaker\n- Onion - 100 gr\n- Egg - 1 pcs\n- Water - 7 beaker\n- Salt\n- Pepper</string>
+    <string name="methods6">1. The meat is boiled in water for 1 hour. When cooked, remove from the
+        water and cool. It is then cut into small straws (kokil).\n\n2. Beat eggs in flour,
+        knead medium hard dough in lukewarm water and leave to rise. The dough is spread out
+        to a medium thickness and cut into rectangular bowl widths.\n\n3. These pieces are cooked
+        in salted water. Once the baked dough is removed from the water, it is spread on the table
+        in the heat and dried. At the same time try to spread it completely in the heat so that the
+        dough does not stick to each other. The dried dough on both sides is spread on a plate in
+        a uniform plane, greased between them and stacked on top of each other.\n\n4. Long strips
+        are cut from the dough and cut into small pieces.\n\n5. The minced meat and dough are
+        mixed with cumin.\n\n6. The dish is served with boiled meat broth in a separate bowl on
+        the table.\n\nNote: Meat will be more delicious if pre-salted and seasoned.</string>
+
+    <string name="title7">Dimlama</string>
+    <string name="description7">A hearty stew made of meat, potatoes, onions, vegetables and
+        sometimes fruit. And of course spices. And dill. Always dill.</string>
+    <string name="fullDescription7">\tDimlama is an Uzbek stew made with various combinations of
+        meat, potatoes, onions, vegetables, and sometimes fruits.\n\n\tMeat and vegetables are cut
+        into large pieces and placed in layers in a tightly sealed pot to simmer slowly in their
+        own juices.\n\n\tVegetables for dimlama may include, in addition to potatoes and onions,
+        also carrots, cabbage, eggplants, tomatoes, sweet peppers, spiced with garlic and a
+        variety of herbs and condiments.\n\n\tDimlama is usually cooked during spring and summer
+        when there is a wide choice of vegetables. It is served on a large plate and eaten with
+        spoon.</string>
+    <string name="ingredients7">- 1/2-1 lb cubed lamb or beef\n- 1 large onion, sliced in quarter
+        moons\n- 5 small yellow potatoes cut in half\n- 2-3 large carrots, peeled \u0026 sliced
+        \n- 2 red peppers, sliced in strips\n- 2 large tomatoes, cut in wedges\n- 5 cloves garlic,
+        quartered\n- 3 green onions, sliced\n- 1 1/2 tsp cumin seed\n- 1 small, green cabbage
+        cut in hunks\n- salt \u0026 pepper, as needed</string>
+    <string name="methods7">1. First, let’s brown the lamb and onion in oil. You want to get it
+        really good and toasty, as that’s the main source of dimlama’s flavor.\n\n2. Next, layer on
+        the veggies, being sure to season with salt and pepper as you go.\n\n3. First, the potatoes,
+        carrots, and peppers.\n\n4. Next, the tomatoes, garlic, green onion, and cumin seed.\n\n5.
+    Finally, the cabbage. You’ll want to cut the cabbage in large wedges, then peel off the outer
+        leaves to cover any gaps along the surface of the dimlama.\n\n6. Cover tightly and simmer
+        gently until all the vegetables are tender. Do not stir! Some recipes say 1 1/2 hours,
+        but I found mine took closer to 2 1/2 hours. The cabbage takes the longest, so use that
+        as your indicator of doneness. Garnish with fresh cilantro, as desired.\n\n\tEnjoy with a
+        smile, a friend, and happy conversation!\n\n\tWhile you eat, pay attention to all those
+        amazing layers of flavor, perhaps while looking at an entirely different sort of layering.</string>
+
+
+    <string name="title8">Kebab (Shaslik)</string>
+    <string name="description8">Chunks of lamb, chicken, or lyulya (a mix of mutton and spices)
+        served on steel skewers and topped with more slices of raw onion than you ever thought
+        you’d encounter. It’s often served with Adjika- a bright red, spicy sauce made from hot
+        red peppers.</string>
+    <string name="fullDescription8">\tThere are disputes about where shashlik was first come up
+        with and how to translate this dish. Here are some of the most plausible versions
+        of the origin of shashlik.\n\n\t“Shash” from with ancient Turkic means “piece”. And ”lik”
+        means ”six”. As a result, shashlik - is six pieces of meat.\n\n\tUzbek shashlik, is mostly
+        cooked this way. Pieces are of different sizes. It depends on the brazier.
+        But the pieces are always six.\n\n\tAs with other national dishes, each region of Uzbekistan
+        offers its variants of preparation of this dish, and all regions do it exceptionally good.
+        But the championship is rightfully Gijduvon shashlik. Gijduvon - a small district center,
+        located near Bukhara . Gijduvon shashlik prepared here, is considered the best and unique.
+        It is impossible to understand the secret of making Gijduvon shashlik, but the taste it has
+        is very special and memorable. It is noted by all the people who tried it at least once.
+        \n\n\tThe most popular Uzbek shashliks are lamb, beef and chicken shashliks. There are many
+        variants, as the technology of preparations, and in shape, size and choice of meat portions.
+        And there are Uzbek shashliks, surrounded by mysteries.</string>
+    <string name="ingredients8">- 1 pound lamb, leg or shoulder, trimmed of all fat, cut into
+        2-inch cubes.\n- 1/2 cup olive oil.\n- 1/2 cup lemon juice.\n- 1 teaspoon freshly ground
+        black pepper.\n- 1 teaspoon salt\n- 1/4 teaspoon ground red pepper (like cayenne).
+        \n- 2 medium onions, cut into eighths.\n- 1 pint cherry tomatoes.\n- 2 large green peppers,
+        cut into 1-inch chunks.</string>
+    <string name="methods8">1. Gather the ingredients.\n\n2. In a bowl, combine the lamb, olive oil,
+        lemon juice, pepper, salt, and red pepper. Allow to marinate in the refrigeratorfor at least
+        2 to 3 hours prior to cooking.\n\n3. Apply a light coat of oil onto each skewer prior to
+        threading the meat. Place the marinated meat onto the skewers (about 6 cubes per skewer).
+    \n\n4. Place the vegetables on separate skewers, alternating the type of vegetable.
+        \n\n5. Place the lamb shashlik skewers on the grill or under the broiler and cook for
+        10 to 12 minutes, or until the meat reaches your desired doneness.
+        Rotate the skewers to ensure even cooking.\n\n6. Add the vegetable skewers to the grill
+        during the last 5 minutes of cooking time. Turn every so often to cook all sides.
+        The vegetables should be crisp, yet tender. Be careful not to overcook.\n\n7. Serve the lamb
+        and vegetables on the skewers, or remove the meat and veg and place them on a serving
+        platter.\n\n8. Enjoy.</string>
+
+    <string name="title9">Shurpa</string>
+    <string name="description9">A soup made out of fatty meat (usually mutton) and fresh garden
+        vegetables like tomato, carrot, and slices onions. There are two version: Kaytnama
+        (made from fresh meat) and Kovurma (made from fried meat).</string>
+    <string name="fullDescription9">\tThis rich lamb and vegetable soup, also known as Shurpa
+        is a well-known dish in Uzbekistan. Simple to make, this one is sure to become a
+        favorite you’ll make over and over again!\n\n\tIn Uzbekistan, Shurpa often is served with
+        samsa, and as popular as pilaf and shish kebab leading its way to the tables on all holidays
+        and events as well as weeknight family gatherings.\n\n\tThis soup requires some patience and
+        high-quality ingredients. Not the kind of soup you can cook from scraps. Ask your butcher
+        for a good quality lamb on a bone, preferably ribs. I used a rack of lamb and my broth
+        turned out phenomenally rich and hearty. Lots of onions, flashy red bell peppers, ripe and
+        sweet tomatoes, fresh and fragrant herbs. Slowly simmer everything in a pot and in a few
+        hours you will be rewarded with the most delicious Uzbek Shurpa Soup.</string>
+    <string name="ingredients9">- 1-2 lb lamb ribs.\n- 3 medium yellow onions, sliced.\n- 2 medium
+        carrots, roughly chopped.\n- 3 medium potatoes, halfed.\n- 1 red bell pepper, sliced.
+        \n- 1 chili pepper, sliced.\n- 2 medium tomatoes, roughly chopped.\n- salt and black pepper
+        to taste.\n- 1 tbsp coriander powder.\n- 1 tsp cumin powder.\n- 1 tbsp dried basil.\n- ⅓
+        cup cilantro, chopped.\n- 1 sweet onion, sliced.\n- 2 tbsp lemon juice.\n- 1 tbsp sugar.
+        \n- 1 tbsp oil</string>
+    <string name="methods9">1. Season lamb with salt and pepper. Heat the oil in Dutch oven over
+        high heat and brown meat on all sides, about 5 minutes.\n\n2. Cover the meat with water
+        and bring to a boil. Skim off any foam that comes up.\n\n3. Reduce the heat to low and cook
+        partially covered for 30 minutes.\n\n4. Add carrots and onions to the soup and cook
+        for 20 minutes longer.\n\n5. While the soup is cooking, combine sliced sweet onion with
+        sugar and lemon juice in a small bowl. Set aside to marinate.\n\n6. Add potatoes, spices,
+        salt and pepper to the pot and simmer until potatoes are almost cooked through,
+        about 10 minutes.\n\n7. Add peppers and tomatoes and cook for another 10 minutes.
+        \n\n8. Add marinated onion and its juices to the soup and cook for a few more minutes.
+        \n\n9. Serve garnished with cilantro.</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="method">Methods</string>
+    <string name="position">position</string>
+    <string name="about_app">About App</string>
+    <string name="text_about_app">This exciting application provides a collection of the most
+        popular dishes in Uzbekistan\'s cuisine, as well as a brief description of each dish,
+        a list of ingredients, and instructions on how to prepare each dish in the
+        traditional Uzbek way.</string>
+    <string name="ok">Ok</string>
+
+</resources>
